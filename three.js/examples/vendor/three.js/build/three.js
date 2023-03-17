@@ -25416,7 +25416,6 @@
 		ParametricGeometry: ParametricGeometry,
 		ParametricBufferGeometry: ParametricGeometry,
 		PlaneGeometry: PlaneGeometry,
-		PlaneBufferGeometry: PlaneGeometry,
 		PolyhedronGeometry: PolyhedronGeometry,
 		PolyhedronBufferGeometry: PolyhedronGeometry,
 		RingGeometry: RingGeometry,
@@ -36296,7 +36295,6 @@
 	exports.Path = Path;
 	exports.PerspectiveCamera = PerspectiveCamera;
 	exports.Plane = Plane;
-	exports.PlaneBufferGeometry = PlaneGeometry;
 	exports.PlaneGeometry = PlaneGeometry;
 	exports.PlaneHelper = PlaneHelper;
 	exports.PointCloud = PointCloud;
